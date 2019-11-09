@@ -1,0 +1,17 @@
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.button{
+	text-decoration: none;
+	color: white;
+	outline-color: white;
+	outline-style: solid;
+	padding: 10px 15px;
+}
+.button:hover {
+	color: #393e46;
+	background-color: white;
+	transition: background-color 0.3s;
+}
